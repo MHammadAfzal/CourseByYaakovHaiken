@@ -131,11 +131,14 @@ footer {
     float: left;
   }
   .col-lg-3 {
-    width: 31%;
+    width: 30%;
     margin: 0 15px;
   }
   .container {
     height: calc(100vh - 30px);
+  }
+  .box {
+    height: 400px;
   }
   footer {
     width: 100%;
